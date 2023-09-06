@@ -1,7 +1,5 @@
+# Analiz
+Kullanılan Kaynaklar html5 scss projesi
 
-1-dosya yapısı oluştur---
+https://github.com/sedatcalis/Analiz/assets/140658531/14e9f28d-f11f-420a-9cf0-5287a396c472
 
-1-grid yapısı için mixin oluşturalacak---
-2-flex box yapısı için dinamik mixin ---
-3-sitediki ortak hizalama için container oluştur
-4-3-farklı ekran boyutuna göre dinamik media query mixin oluştur---# Analiz
